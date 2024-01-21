@@ -8,6 +8,7 @@
     
     section#ilogin {
         width: 80vw;
+        height: 360px;
     }
 
     section#ilogin > div#imagem {
@@ -34,6 +35,7 @@
 
     section#ilogin {
         width: 950px;
+        height: 440px;
     }
 
     section#ilogin > div#imagem {
@@ -49,5 +51,6 @@
 
     div#iform > p {
         font-size: 1.4em;
+        margin: 20px 0px;
     }
 }
