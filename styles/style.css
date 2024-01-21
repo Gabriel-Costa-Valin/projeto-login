@@ -53,3 +53,12 @@ section#ilogin > div#iform {
     display: block;
     padding: 10px;
 }
+
+div#iform {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#iform > p {
+    font-size: 0.8em;
+}
