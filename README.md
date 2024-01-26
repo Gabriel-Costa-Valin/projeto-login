@@ -1,2 +1,3 @@
 # projeto-login
- Projeto tela de login
+***
+Projeto tela de login feito durante o curso de HTML5 e CSS3 do [CursoEmVideo](https://www.cursoemvideo.com) onde criamos juntos uma página que simula uma tela de login, usamos media queries para que o site possa se adaptar de maneira responsiva a tamanhos de telas diferentes como celulares, tablets e computadores/telas grandes. Confira como ficou o resultado [clicando aqui!](https://gabriel-costa-valin.github.io/projeto-login/)
